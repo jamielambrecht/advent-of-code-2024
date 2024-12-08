@@ -1,0 +1,10 @@
+numbers 10000-99999
+
+array with 89999 elements
+
+set a bool in the index corresponding to each number
+
+for length(lists):
+    scan boolarray1 for a true
+    scan boolarray2 for a true
+    find abs(list1inx-list2inx)
